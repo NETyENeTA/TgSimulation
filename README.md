@@ -1,5 +1,5 @@
 Обычная симуляция нотификаций в тг:
-
+-
 Добавить Task
 add title.body.HH:MM:SS
 Пример:
@@ -21,7 +21,7 @@ list
 --------------------------------------------------------
 
 The usual simulation of notifications in tg:
-
+-
 Add Task
 add title.body.HH:MM:SS
 Example:
